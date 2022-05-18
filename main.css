@@ -1,0 +1,33 @@
+.h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+}
+.para{
+    font-size: 20px;
+
+}
+.main{
+    padding: 10px;
+}
+.card1{
+    margin: 70px;
+    display:flex;
+    flex-direction:row;
+    justify-content: start;
+}
+.card2{
+    text-align: center;
+    padding: 45px;
+    margin: 30px;
+    width: 20vw;
+    height: 50vh;
+    background-color:#fafcff;
+    border-radius : 10px;
+    display:flex;
+    flex-direction:row;
+    justify-content: center;
+    
+}
+.in1{
+    padding: 5px;
+}
